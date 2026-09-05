@@ -15,6 +15,8 @@
 <br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/armishiqbal)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/armish-iqbal-363a22296)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/_armishiqbal__)
 [![Live Demo](https://img.shields.io/badge/Live_App-7C3AED?style=for-the-badge&logo=streamlit&logoColor=white)](https://enterprisedocuments-mykuyzjycbucehracp2jfv.streamlit.app)
 
 <br/>
@@ -179,6 +181,12 @@ Want to collaborate on RAG, AI applications, or full-stack software products? Fe
 
 <a href="https://github.com/armishiqbal">
   <img src="https://img.shields.io/badge/Follow-@armishiqbal-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow" />
+</a>
+<a href="https://www.linkedin.com/in/armish-iqbal-363a22296">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://x.com/_armishiqbal__">
+  <img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
 </a>
 <a href="https://github.com/armishiqbal/armishiqbal/issues/new?title=Hello%20Armish">
   <img src="https://img.shields.io/badge/Message-Open_Issue-DB2777?style=for-the-badge&logo=github&logoColor=white" alt="Message" />
